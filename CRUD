@@ -1,0 +1,16 @@
+# Flask CRUD Application
+
+A simple web application built with Flask that allows users to manage items with CRUD (Create, Read, Update, Delete) operations. It allows users to input personal information and details about products or items they purchase.
+
+## Features
+- Add users and their items
+- Display user details and item information
+- Edit and delete users and items
+- Dynamic tables with real-time updates
+
+## Requirements
+- Python 3.7+
+- Flask
+- SQLite
+
+## Installation
