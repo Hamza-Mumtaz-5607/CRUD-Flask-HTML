@@ -14,3 +14,5 @@ A simple web application built with Flask that allows users to manage items with
 - SQLite
 
 ## Installation
+1. Clone the repository:
+https://github.com/Hamza-Mumtaz-5607/CRUD-Flask-HTML
